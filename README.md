@@ -12,3 +12,5 @@
 - i inserted a paragraph
 ## css borders
 - i added a  border
+## css borders and margins 
+- I added a margin anad a border 
