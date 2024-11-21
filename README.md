@@ -10,3 +10,5 @@
 - I inserted a background image  new line
 ## css paragraph
 - i inserted a paragraph
+## css borders
+- i added a  border
